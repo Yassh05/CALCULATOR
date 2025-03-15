@@ -1,0 +1,1 @@
+A simple and interactive web-based calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations like addition, subtraction, multiplication, and division. The user-friendly interface ensures a smooth experience, making it a handy tool for quick calculations. 🚀
